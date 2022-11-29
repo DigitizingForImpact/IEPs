@@ -1,9 +1,17 @@
 ---
-name: Informational IEP
-about: These are meant to be educational and serve as a knowledge source for members
-  of the ecosystem.
+Type: <Informational | Process | Standards> 
+Status: <Draft | Active | Accepted | Provisional | Deferred | Rejected | Withdrawn | Final | Superseded>
+IEP: <IEP Number> 
+Title: <IEP Title>
+Author: <list of authors` real names and optionally, email addrs>
+Sponsor: <Name of sponsor organization>
+Discussion-to: <URL of current discussion thread>
+Created: <date created on, in dd-mmm-yyyy format>
 ---
 
+## About 
+These are meant to be educational and serve as a knowledge source for members of the ecosystem.  
+  
 ## Type 
 These can be Case Studies, Publications, and After Action reports, Regulatory Reports and External Standards Reports and Treaties
 
