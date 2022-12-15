@@ -1,6 +1,6 @@
 # Impact Enhancement Proposals (IEPs)
 
-Use `IEPs` as the canonical source of accepted proposals in Digitizing for Impact. Impact Enancement Proposals document Digital Monitoring, Reporting (MRV) and Verification Methodologies.
+Use `IEPs` as the canonical source of accepted proposals with regard to the Open Collaboration on Digitizing for Impact. Impact Enancement Proposals document Digital Monitoring, Reporting (MRV) and Verification Methodologies as Standard IEPs, among other versions of IEPs laid out in IEP-1. It also contains proposals on the standardization of infrastructure and APIs for enabling interoperability between impact focused organizations in an effort to progress the industry towards a more digital baseline.
 
 The repository is organized in three branches:  
 - `main` contains the final, approved and published copy of an IEP.
@@ -8,7 +8,7 @@ This is the canonical source of the document and a permanent hyperlink can be ma
 
 - `drafts` contains IEPs traveling the submission, review and approval workflows.
 
-- `infa` contains scripts, tools and miscellaneous files IEP administrators use to maintain the repository.
+- `infra` contains scripts, tools and miscellaneous files IEP Editors and Administrators used to maintain the repository.
 
 ## Start Here
 - `IEP-0` is a digest of all IEPs, final and draft.
