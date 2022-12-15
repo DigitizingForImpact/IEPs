@@ -1,3 +1,15 @@
-# IEPs
-This repository is to be utilized for submission, discussion, review and approval of new Impact Enhancement Proposals with regard to the Open collaboration for Digitizing Impact utilizing Digital Monitoring, Reporting (MRV) and Verification Methodologies.
-Once IEP 1 - Purpose and Guidelines has been approved, then it will be present here. 
+# Impact Enhancement Proposals (IEPs)
+
+Use `IEPs` as the canonical source of accepted proposals in Digitizing for Impact. Impact Enancement Proposals document Digital Monitoring, Reporting (MRV) and Verification Methodologies.
+
+The repository is organized in three branches:  
+- `main` contains the final, approved and published copy of an IEP.
+This is the canonical source of the document and a permanent hyperlink can be made to any document on the main branch.
+
+- `drafts` contains IEPs traveling the submission, review and approval workflows.
+
+- `infa` contains scripts, tools and miscellaneous files IEP administrators use to maintain the repository.
+
+## Start Here
+- `IEP-0` is a digest of all IEPs, final and draft.
+- `IEP-1` contains policy, guidance governing the IEP approval process.
